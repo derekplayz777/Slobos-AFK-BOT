@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "VIBECRAFTSMP-sacj.aternos.me:15037",
+    "ip": "VIBECRAFTSMP-sacj.aternos.me",
     "port": 15037,
     "version": "1.21.1"
   },
